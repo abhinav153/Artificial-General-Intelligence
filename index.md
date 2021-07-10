@@ -43,6 +43,8 @@ from the creation and study of synthetic intelligences with significantly narrow
 generalization capability.
 
 ### Approaches in AGI[[3]](http://mathnathan.com/2014/07/artificial-general-intelligence-concept-state-of-the-art-and-future-prospects/)
+
+After the high level introduction to the scope of AGI a succinct categorization of the mainstream AGI approaches is presented.<br> <br>
 > Symbolic
 
 The roots of the symbolic approach to AGI reach back to the traditional AI field. The guiding principle for all symbolic systems is the belief that the mind exists mainly to manipulate symbols that represent aspects of the world or themselves. This belief is called the physical symbol system hypothesis.
