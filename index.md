@@ -13,8 +13,10 @@ Traditionally, machine learning (ML) is a subset of AI, while AI is a subset of 
 The problem is that machines now are really good at narrow tasks, as in AI has excelled in specific domains like playing Go, spam detection, and Spotify playlist recommendations etc . However, computers now lack the ability to generalize knowledge to other domains. This is the heart of the issue,where the goal is attain 
 "general intelligence" <br>
 
-### What is General Intelligence ?[2]
-Qualitatively speaking, though,there is broad agreement in the AGI community on some key features of general intelligence:
+### What is General Intelligence ?[[2]](https://sciendo.com/abstract/journals/jagi/5/1/article-p1.xml)
+Qualitatively speaking, though,there is broad agreement in the AGI community on some key features of general intelligence:<br>
+
+
 • General intelligence involves the ability to achieve a variety of goals, and carry out a variety
 of tasks, in a variety of different contexts and environments.<br>
 • A generally intelligent system should be able to handle problems and situations quite different
@@ -40,7 +42,34 @@ The creation and study of synthetic intelligences with sufficiently broad
 from the creation and study of synthetic intelligences with significantly narrower scope and weaker
 generalization capability.
 
+### Approaches in AGI[[3]](http://mathnathan.com/2014/07/artificial-general-intelligence-concept-state-of-the-art-and-future-prospects/)
+> Symbolic
+
+The roots of the symbolic approach to AGI reach back to the traditional AI field. The guiding principle for all symbolic systems is the belief that the mind exists mainly to manipulate symbols that represent aspects of the world or themselves. This belief is called the physical symbol system hypothesis.
+
+> Emergentist
+
+The Emergentist approach to AGI takes the view that higher level, more abstract symbolic processing, arises (or emerges) naturally from lower level “subsymbolic” dynamics. As an example, consider the classic multilayer neural network which is in most ubiquitous practice today. The view here is that a more thorough understanding of the fundamental components of the brain and their interplay may lead to a higher level understanding of general intelligence as a whole.
+
+> Computational Neuroscience
+
+As it sounds, computational neuroscience is an approach to exploring the principles of neuroscience using computational models and simulations. This approach to AGI falls under the emergentist category. If a robust model of the human brain can be developed it stands to reason the we may be able to glean insight into what components of the model give rise to higher level general intelligence.
+
+>Developmental Robotics
+
+Infants are the ultimate scientists. They use all of their senses to interact with their environment and over time create a model of their perceived reality. It is argued that general intelligence arises from “the brain’s” constant interaction with its surroundings and environment. Developmental robotics attempts to recreate this process.
+
+>Hybrid
+
+In recent years AGI researchers have begun integrating both symbolic and emergentist approaches. The motivation is that, if designed correctly, each system’s strengths can ameliorate the other’s weaknesses. The concept of “cognitive synergy” captures this principle. It argues that higher level AGI emerges as a result of harmonious interactions from multiple components.
+
+>Universalist
+
+The univeralist approach leverages a principle employed by many creative designers and inventors. Instead of coming up with an idea that satisfies all of a problems inherent limitations, one “dreams big” and develops elaborate, even unrealistic ideas, and later simplifies them to fit within the confines of the proposed problem. In regard to AGI, the so called universalist approach, aims at developing ideal, perfect, or unrealistic models of general intelligence. These models and algorithms may require incredible power, even infinite power to be employed. In summary universalists might argue that one should not limit their creativity by any imposed constraints.
+
+
 
 ### References
 1. Legg, Shane, and Marcus Hutter. “A collection of definitions of intelligence.” Frontiers in Artificial Intelligence and applications157 (2007): 17
 2. Goertzel, Ben. “Artificial general intelligence: concept, state of the art, and future prospects.” Journal of Artificial General Intelligence 5.1 (2014): 1–48.
+3. http://mathnathan.com/2014/07/artificial-general-intelligence-concept-state-of-the-art-and-future-prospects/
