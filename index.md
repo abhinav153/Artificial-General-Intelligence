@@ -67,7 +67,32 @@ In recent years AGI researchers have begun integrating both symbolic and emergen
 
 >Universalist
 
-The univeralist approach leverages a principle employed by many creative designers and inventors. Instead of coming up with an idea that satisfies all of a problems inherent limitations, one “dreams big” and develops elaborate, even unrealistic ideas, and later simplifies them to fit within the confines of the proposed problem. In regard to AGI, the so called universalist approach, aims at developing ideal, perfect, or unrealistic models of general intelligence. These models and algorithms may require incredible power, even infinite power to be employed. In summary universalists might argue that one should not limit their creativity by any imposed constraints.
+The univeralist approach leverages a principle employed by many creative designers and inventors. Instead of coming up with an idea that satisfies all of a problems inherent limitations, one “dreams big” and develops elaborate, even unrealistic ideas, and later simplifies them to fit within the confines of the proposed problem. In regard to AGI, the so called universalist approach, aims at developing ideal, perfect, or unrealistic models of general intelligence. These models and algorithms may require incredible power, even infinite power to be employed. In summary universalists might argue that one should not limit their creativity by any imposed constraints. <br><br>
+
+---
+
+The concept of minds—their nature, their implementation, their applications, etc.—are of huge interests to AGI researchers, and even anyone remotely interested in AI; arguably, this is the entire job of an AI/AGI researcher: creating artificial minds
+
+Specifically, we are introducing and discussing these questions:
+What is a mind?
+Where do minds come from?
+How could we test for presence of a mind in a computer/artificial agent?
+Could a machine mind ever truly understand semantics?
+
+### What is a mind ?[[4]](https://ojs.aaai.org//index.php/aimagazine/article/view/2744)
+> SMOM(an attempt to solidify what minds must do in order to be considered a mind) : A mind is a functional entity that can think, and thus support intelligent behavior. Humans possess minds, as do many other animals. In natural systems such as these, minds are implemented through brains, one particular class of physical device. However, a key foundational hypothesis in artificial intelligence is that minds are computational entities of a special sort — that is, cognitive systems — that can be implemented through a diversity of physical devices (a concept lately reframed as substrate independence [Bostrom 2003]), whether natural brains, traditional general- purpose computers, or other sufficiently functional forms of hardware or wetware.<br>
+
+So, minds are a sort of abstraction — a “bundle of mental processes” if you will, or a type of “software” that, according the the above, is independent of the hardware it is implemented on. That is, minds could be realized in other mediums besides brains (this is often referred to as “multiple realizability” in philosophy of mind). <br>
+
+In essence, what is needed to be a mind according to the paper is [4]:<br>
+-A main module of working memory <br>
+-A module of procedural long term memory<br>
+-A module of declarative memory<br>
+-A perception interface<br>
+-A motor interface<br>
+-Working Memory serving as a middleman that connects to PLTM, DLTM, and P/M interfaces. <br>
+
+
 
 
 
@@ -75,3 +100,4 @@ The univeralist approach leverages a principle employed by many creative designe
 1. Legg, Shane, and Marcus Hutter. “A collection of definitions of intelligence.” Frontiers in Artificial Intelligence and applications157 (2007): 17
 2. Goertzel, Ben. “Artificial general intelligence: concept, state of the art, and future prospects.” Journal of Artificial General Intelligence 5.1 (2014): 1–48.
 3. http://mathnathan.com/2014/07/artificial-general-intelligence-concept-state-of-the-art-and-future-prospects/
+4. Laird, John E., Christian Lebiere, and Paul S. Rosenbloom. “A standard model of the mind: Toward a common computational framework across artificial intelligence, cognitive science, neuroscience, and robotics.” Ai Magazine 38.4 (2017): 13–26.
